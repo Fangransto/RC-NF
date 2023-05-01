@@ -12,6 +12,7 @@
   * We consider a 3-D El Lorenz system with additive Gaussian noise. `RC-NF-Lorenz.ipynb`
 ***
 * An algorithm flowchart of RC-NF is shown below.
+![R-NF](https://github.com/Fangransto/RC-NF/blob/main/rc-nf.jpg "RC-NF")
 
  
 
