@@ -9,7 +9,7 @@
 * We list three experiments mentioned in the article:
   * We consider a 1-D Double-Well system with Brownian motion. `RC-NF-DW.ipynb`.
   * We consider a 1-D El Niño Southern Oscillation simplified model with additive Gaussian noise. `RC-NF-ESNO.ipynb`.
-  <* We consider a 3-D Lorenz system with additive Gaussian noise. `RC-NF-Lorenz.ipynb`.>
+  <!--* We consider a 3-D Lorenz system with additive Gaussian noise. `RC-NF-Lorenz.ipynb`.-->
 ***
 * An algorithm flowchart of RC-NF is shown below.
 ![RC-NF](https://github.com/Fangransto/RC-NF/blob/main/rc-nf.jpg "RC-NF")
