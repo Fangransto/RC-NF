@@ -1,5 +1,5 @@
 # RC-NF: Reservoir Computing with Normalizing Flow
- This is an open-source codebase about the article " ".
+ This is an open-source codebase about the article "[Reservoir Computing with Error Correction: Long-term Behaviors of Stochastic Dynamical Systems](https://arxiv.org/abs/2305.00669)".
 ***
 * The folder "nolitsa" is used to calculate the maximum Lyapunov exponent. We refer to the [NoLiTSA](https://github.com/manu-mannattil/nolitsa "NoLiTSA") open-source library.
 * The folder "src" involves the RC framework (`RC.py`), ESC framework (`ESC.py`), and NF framework (`flows.py` `models.py` `utls.py`).
